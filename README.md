@@ -43,16 +43,18 @@ src/
 
 ## 🔧 DEPLOYMENT_SEQUENCE
 
- *   1. **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/bp-tracker.git](https://github.com/YOUR_USERNAME/bp-tracker.git)
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/bp-tracker.git](https://github.com/YOUR_USERNAME/bp-tracker.git)
 
- *   2. **Initialize Environment:**
-    ```bash
+2.  **Initialize Environment:**
+    Bash
+
     npm install
 
- *   3. **Launch HUD:**
-    ```bash
+3.  **Launch HUD:**
+    Bash
+
     npm run dev
 
 📡 FREQUENCY
