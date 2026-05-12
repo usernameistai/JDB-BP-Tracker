@@ -48,7 +48,7 @@ const App: React.FC = () => {
           </div>
           <div className="flex items-center gap-2">
             <span className="text-[10px] font-bold text-green-500 animate-pulse uppercase">System_Online</span>
-            <div className="h-2 w-2 bg-green-500 rounded-full shadow-[0_0_8px_#22c55e]"></div>
+            <div className="h-2 w-2 bg-green-500 rounded-full animate-pulse shadow-[0_0_8px_#22c55e]"></div>
           </div>
         </header>
 
