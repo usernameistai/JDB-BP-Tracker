@@ -39,21 +39,19 @@ src/
 ├── types/               # Mission-Critical Type Definitions
 └── App.tsx              # Command & Control Center
 ```
+---
 
-🔧 DEPLOYMENT_SEQUENCE
+## 🔧 DEPLOYMENT_SEQUENCE
 
-    1. Clone the repository:
-
+ *   1. **Clone the repository:**
     ```bash
     git clone [https://github.com/YOUR_USERNAME/bp-tracker.git](https://github.com/YOUR_USERNAME/bp-tracker.git)
 
-    2. Initialize Environment:
-
+ *   2. **Initialize Environment:**
     ```bash
     npm install
 
-    3. Launch HUD:
-
+ *   3. **Launch HUD:**
     ```bash
     npm run dev
 
