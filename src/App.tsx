@@ -43,8 +43,8 @@ const App: React.FC = () => {
         {/* HEADER HUD */}
         <header className="p-6 border-b border-slate-800 flex justify-between items-center bg-[--color-tactical-card]">
           <div>
-            <h1 className="text-xl font-black tracking-tighter text-blue-400">AEGIS // HEALTH_LOG</h1>
-            <p className="text-[10px] text-slate-500 uppercase tracking-[0.2em]">User: Grandad_Dad_JDB_Primary</p>
+            <h1 className="text-xl font-black tracking-tighter text-blue-400">DAVID // HEALTH_LOG</h1>
+            <p className="text-[10px] text-slate-500 uppercase tracking-[0.2em]">User: Grandad_Dad_JDB_David_Primary</p>
           </div>
           <div className="flex items-center gap-2">
             <span className="text-[10px] font-bold text-green-500 animate-pulse uppercase">System_Online</span>
@@ -125,7 +125,7 @@ const App: React.FC = () => {
                 <div className="bg-blue-500/10 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#60a5fa" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4m4-5 5 5 5-5m-5 5V3"/></svg>
                 </div>
-                <h2 className="text-xl font-bold text-[#ffffff] mb-2">Export Data</h2>
+                <h2 className="text-xl font-bold text-[#ffffff] mb-2">Export Data David?</h2>
                 <p className="text-sm text-slate-400 mb-8">
                   Generate a CSV file of all {readings.length} entries to share with your healthcare provider.
                 </p>
