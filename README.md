@@ -38,6 +38,7 @@ src/
 ├── utils/               # CSV Export & Formatting Logic
 ├── types/               # Mission-Critical Type Definitions
 └── App.tsx              # Command & Control Center
+```
 
 🔧 DEPLOYMENT_SEQUENCE
 
