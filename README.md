@@ -48,13 +48,11 @@ src/
    git clone [https://github.com/YOUR_USERNAME/bp-tracker.git](https://github.com/YOUR_USERNAME/bp-tracker.git)
 
 2.  **Initialize Environment:**
-    Bash
-
+    ```bash
     npm install
 
 3.  **Launch HUD:**
-    Bash
-
+    ```bash
     npm run dev
 
 📡 FREQUENCY
