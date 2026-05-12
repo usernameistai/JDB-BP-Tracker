@@ -42,7 +42,7 @@ src/
 🔧 DEPLOYMENT_SEQUENCE
 
     1. Clone the repository:
-    ```bash
+    ```Bash
 
     git clone [https://github.com/YOUR_USERNAME/bp-tracker.git](https://github.com/YOUR_USERNAME/bp-tracker.git)
 
