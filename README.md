@@ -13,7 +13,7 @@ A high-performance, local-first health tracking utility designed for rapid data 
 ---
 
 ## 🛠️ TECHNICAL_SPECIFICATIONS
-* **CORE:** React 18 + TypeScript (Strict Mode)
+* **CORE:** React 19 + TypeScript (Strict Mode)
 * **ARCHITECTURE:** Tactical HUD / SPA
 * **VISUALS:** Tailwind CSS (Custom Color Variables)
 * **TELEMETRY:** Recharts (Custom Tooltip Overrides)
