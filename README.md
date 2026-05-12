@@ -43,18 +43,18 @@ src/
 🔧 DEPLOYMENT_SEQUENCE
 
     1. Clone the repository:
-    ```Bash
 
+    ```bash
     git clone [https://github.com/YOUR_USERNAME/bp-tracker.git](https://github.com/YOUR_USERNAME/bp-tracker.git)
 
     2. Initialize Environment:
-    ```bash
 
+    ```bash
     npm install
 
     3. Launch HUD:
-    ```bash
 
+    ```bash
     npm run dev
 
 📡 FREQUENCY
